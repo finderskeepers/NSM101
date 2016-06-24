@@ -2,6 +2,8 @@
  
 # Bro Network Security Monitor 
 
+Editor: [@finderskeepers](https://github.com/finderskeepers)
+
 > * <a href='#giris'>Giriş</a>
 >   * <a href='#onbakis'>Ön Bakış</a>
 >   * <a href='#ozellikler'>Özellikler</a>
