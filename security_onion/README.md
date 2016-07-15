@@ -1,5 +1,5 @@
 Editors: {
-	[@meryembusra](https://github.com/meryembusra)
+	[@meryembusra](https://github.com/meryembusra),
 	[@finderskeepers](https://github.com/finderskeepers)
 }
 
