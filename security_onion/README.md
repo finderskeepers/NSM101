@@ -1,3 +1,8 @@
+Editors: {
+	[@meryembusra](https://github.com/meryembusra)
+	[@finderskeepers](https://github.com/finderskeepers)
+}
+
 ![SecurityOnionIcon](http://truica-victor.com/wp-content/uploads/2014/01/securityonion_logo_575x101.jpg)
 
 # **Security Onion**
